@@ -1,0 +1,30 @@
+<header>
+  <h1>Temmy's Profile</h1>
+  <button>suprise</button>
+    <p>rom-com,sci-fi,horror</p>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/cWppAbqm9I8?si=9ZOiEzPZ9SmLEmAO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</header>
+<nav>
+<a href="pinterest.com">Pinterest</a> | <a href="tiktok.com">My Tiktok</a>
+  </nav>
+      <main>
+        <ul>
+      <li>I Love singing</li>
+      <li>I love baking</li>
+      <li>I Love spending time with friends</li>
+    </ul>
+  <h1>All about Temmy</h1>
+  <p>Hey,i'm Temmy. I'm 15 years old, I just ended my secondary level education about to get into university I want to study nursing at covenant university, i love cooking,baking, singing, i love rainy days. My favorite colors are red black and blue, i totally like being able to get comfortable with people especially those i can always be both silly and serious with. I do watch football a little and i support liverpool in the premier league and Real madrid in the la liga </p>
+  <h1><p>Hobbies</p></h1>
+  <ul>
+  <li>Singing</li>
+  <li>Cooking</li>
+  <li>Eating</li>
+  <li>Crocheting</li>
+    <li>Reading novels</li>
+  </ul>
+      </main>
+  <footer>
+    <a href="snapchat.com">My Snap</a>
+    <p>copyright 2025</P>
+  </footer>
